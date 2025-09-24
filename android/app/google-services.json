@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "559812462196",
+    "project_id": "swipeurmatch",
+    "storage_bucket": "swipeurmatch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559812462196:android:af41c779fa82581fb47321",
+        "android_client_info": {
+          "package_name": "com.example.swipeurmatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559812462196-a1jo2o7igo8nde3i8c1j347328crpuei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYr68jeJ2aU60PaoQMavVJpQrpJNq-_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559812462196-a1jo2o7igo8nde3i8c1j347328crpuei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559812462196-8fvu52hmsdscmtchf28la00uv0d74c7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swipeurmatch.ios.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559812462196:android:e94cd18a2e4ffc98b47321",
+        "android_client_info": {
+          "package_name": "com.mycompany.swipeurmatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559812462196-236gg2ntc3jmtj5fpcao5kkp2qmsgm7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.swipeurmatch",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "559812462196-a1jo2o7igo8nde3i8c1j347328crpuei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYr68jeJ2aU60PaoQMavVJpQrpJNq-_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559812462196-a1jo2o7igo8nde3i8c1j347328crpuei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559812462196-8fvu52hmsdscmtchf28la00uv0d74c7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swipeurmatch.ios.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559812462196:android:de851ac8b89ced7cb47321",
+        "android_client_info": {
+          "package_name": "com.swipeurmatch.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559812462196-a1jo2o7igo8nde3i8c1j347328crpuei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYr68jeJ2aU60PaoQMavVJpQrpJNq-_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559812462196-a1jo2o7igo8nde3i8c1j347328crpuei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559812462196-8fvu52hmsdscmtchf28la00uv0d74c7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swipeurmatch.ios.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559812462196:android:bdfe87ee9cd800a7b47321",
+        "android_client_info": {
+          "package_name": "com.swipeurmatch.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559812462196-a1jo2o7igo8nde3i8c1j347328crpuei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYr68jeJ2aU60PaoQMavVJpQrpJNq-_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559812462196-a1jo2o7igo8nde3i8c1j347328crpuei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559812462196-8fvu52hmsdscmtchf28la00uv0d74c7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swipeurmatch.ios.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

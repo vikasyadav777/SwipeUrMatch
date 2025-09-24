@@ -1,0 +1,42 @@
+name: swipeurmatch
+description: SwipeUrMatch - university dating app MVP
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  # cloud_functions: any
+  purchases_flutter: ^9.6.2
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.2
+
+  firebase_core: ^4.1.1
+  firebase_auth: ^6.1.0
+  cloud_firestore: ^6.0.2
+  cloud_functions: ^6.0.2
+  firebase_analytics: ^12.0.2
+
+  # cloud_firestore: ^5.4.0
+  firebase_storage: ^13.0.2
+  firebase_messaging: ^16.0.2
+  firebase_functions: ^0.0.1-dev
+  google_sign_in: ^6.1.0
+  sign_in_with_apple: ^7.0.1
+  swipable_stack: ^2.0.0
+  image_picker: ^1.2.0
+  google_mobile_ads: ^6.0.0
+  # purchases_flutter: ^4.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
